@@ -1,0 +1,1 @@
+openssl rsautl -verify -inkey key.pem -pubin -in data.bin -raw -hexdump
