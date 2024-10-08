@@ -8,10 +8,6 @@
 
 When graduating a French School, you get a PDF that has all the grades you obtained in your final examinations. The PDF has a QR code in the top right. Below it, there’s a reference to a mobile app, [CycladesVerif](https://play.google.com/store/apps/details?id=fr.edu.rennes.cyclades.mobile.verifcertif.verifDocEducNat&hl=de_AT). The app displays all important information already present in the document after scanning the QR code.
 
-This it what it looks like.
-
-![diplome.png](.github/diplome.png)
-
 They use it to verify that you didn’t tamper with the PDF in order to boost your grades. The app store images provide an example of what it looks like after you have scanned a code:
 
 ![example.webp](.github/example.webp)
